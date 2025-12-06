@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025/issues"
+  },
+  "homepage": "https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025#readme",
   "dependencies": {
     "@types/node": "^24.10.1",
     "readline-sync": "^1.4.10"
